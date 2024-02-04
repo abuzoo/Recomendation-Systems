@@ -1,5 +1,6 @@
 # Recomendation-Systems
 ## List of awesome papers for Recomendation Systems
+- [RecDCL: Dual Contrastive Learning for Recommendation](https://arxiv.org/pdf/2401.12445.pdf) (Jan 28, 2024) Tencent [(code)](https://github.com/THUDM/RecDCL)
 - [Session-level Normalization and Click-through Data Enhancement for Session-based Evaluation](https://arxiv.org/pdf/2401.12445.pdf) (Jan 23, 2024) Renmin University of China
 - [InfoRank: Unbiased Learning-to-Rank via Conditional Mutual Information Minimization](https://arxiv.org/pdf/2401.12553.pdf) (Jan 23, 2024) Shanghai Jiao Tong University
 - [PolyCF: Towards the Optimal Spectral Graph Filters for Collaborative Filtering](https://arxiv.org/pdf/2401.12590.pdf) (Jan 23, 2024) Peking University
